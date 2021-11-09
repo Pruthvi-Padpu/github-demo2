@@ -1,7 +1,7 @@
 <h1>Starting new Project</h1>
 
-##Introduction
+<h3>Introduction</h3>
 
-##Purpose
+<h3>Purpose</h3>
 
-##ConclusionS
+<h3>ConclusionS</h3>
